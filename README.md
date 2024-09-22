@@ -1,8 +1,9 @@
 # Projeto1 - GL304 - Test Repo
 
 # STATUS
-+ Passo 1 (a) > ISDEL - Concluído
-+ Passo 2 (b) > Promethee II - Pendente
++ Passo 1 (a) > ISDEL :white_check_mark:
++ Passo 1 (b) > Promethee II :white_check_mark:
++ Passo 2 > Pendente
 + Passo 3 > Pendente
 
 ## Passo 1: Criação de rankings
@@ -49,5 +50,3 @@ Material de apoio para a produção de vídeos e postagem no YouTube:
 + Como criar um canal no YouTube (completo, porém longo): https://www.youtube.com/watch?v=8s90WykP-F0
 
 + Para subir vídeos no seu canal do YouTube: https://www.youtube.com/watch?v=ZMC2kC6D-Gk
-
-Colab paid products - Cancel contracts here
