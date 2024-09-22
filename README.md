@@ -3,8 +3,10 @@
 # STATUS
 + Passo 1 (a) > ISDEL :white_check_mark:
 + Passo 1 (b) > Promethee II :white_check_mark:
-+ Passo 2 > Pendente
-+ Passo 3 > Pendente
++ Passo 2 > :white_check_mark:
++ Passo 3 > :white_check_mark:
++ 22/09: Replicou-se o mesmo resultado que o professor obteve nos vídeos e notebooks, com algumas modificações próprias.
++ PENDENTE: MODIFICAR PESOS; CUSTOMIZAÇÃO DOS MAPAS (COR, ESCALA, TOOLTIP); CUSTOMIZAÇÃO BÁSICA DO HTML (OPCIONAL).
 
 ## Passo 1: Criação de rankings
 
