@@ -1,5 +1,10 @@
 # Projeto1 - GL304 - Test Repo
 
+# STATUS
++ Passo 1 (a) > ISDEL - Concluído
++ Passo 2 (b) > Promethee II - Pendente
++ Passo 3 > Pendente
+
 ## Passo 1: Criação de rankings
 
 Crie para 2 rankings de inovação com diferentes pesos:
