@@ -1,14 +1,15 @@
 # Projeto1 - GL304 - Test Repo
 
-# STATUS
+
+## STATUS
 + Passo 1 (a) > ISDEL :white_check_mark:
 + Passo 1 (b) > Promethee II :white_check_mark:
 + Passo 2 > :white_check_mark:
 + Passo 3 > :white_check_mark:
-+ 22/09: Replicou-se o mesmo resultado que o professor obteve nos vídeos e notebooks, com algumas modificações próprias.
-+ PENDENTE: MODIFICAR PESOS; CUSTOMIZAÇÃO DOS MAPAS (COR, ESCALA, TOOLTIP); CUSTOMIZAÇÃO BÁSICA DO HTML (OPCIONAL).
++ Passo 4 > Roteiro em Elaboração.
 
-## Passo 1: Criação de rankings
+
+### Passo 1: Criação de rankings
 
 Crie para 2 rankings de inovação com diferentes pesos:
 
@@ -18,17 +19,17 @@ Crie para 2 rankings de inovação com diferentes pesos:
 
 Não esqueça de utilizar o código Python dos notebooks associados.
 
-## Passo 2: Dados de georeferência dos municípios do estado de São Paulo
+### Passo 2: Dados de georeferência dos municípios do estado de São Paulo
 
 Extrair os dados de contorno dos municípios de SP e relacionar com os dados de ranking de inovação em uma única tabela de dados do Pandas. Para tanto usar as aulas 03, 04, e 05 da Semana 07:
 
 https://sites.google.com/view/mtodos-quantitativos-aplicados/in%C3%ADcio/s07?authuser=0
 
-## Passo 3: Construir um mapa coroplético da inovação
+### Passo 3: Construir um mapa coroplético da inovação
 
 Criar mapas cujas cores dos municípios estão associadas a um valor do índice de inovação gerado ou pelo ISDEL ou pelo Promethee. Para tanto, assistir a todas as aulas da semana 08. Em particular o notebook da 05 resume todas as operações a serem realizadas. A aula 06 oferece uma opção para comparação dos rankings: https://sites.google.com/view/mtodos-quantitativos-aplicados/in%C3%ADcio/s08?authuser=0
 
-## Passo 4: Regras de criação dos programas em Python e seus respectivos vídeos
+### Passo 4: Regras de criação dos programas em Python e seus respectivos vídeos
 
 Criar um vídeo que será postado no YouTube no qual você e seu grupo deverão explicar:
 
