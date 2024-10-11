@@ -1,4 +1,4 @@
-# Projeto1 - GL304 - Test Repo
+# Projeto 1 - GL304
 
 
 ## STATUS
