@@ -7,6 +7,8 @@
 + Passo 3 > :white_check_mark:
 + Passo 4 > :white_check_mark:
 
+Link do Vídeo: https://www.youtube.com/watch?v=kT1ryG6ydOY
+
 ## ETAPAS DO PROJETO
 ### Passo 1: Criação de rankings
 
