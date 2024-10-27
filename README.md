@@ -1,14 +1,13 @@
-# Projeto 1 - GL304
-
+# PROJETO 1 - MÉTODOS QUANTITATIVOS APLICADOS - GL304
 
 ## STATUS
 + Passo 1 (a) > ISDEL :white_check_mark:
 + Passo 1 (b) > Promethee II :white_check_mark:
 + Passo 2 > :white_check_mark:
 + Passo 3 > :white_check_mark:
-+ Passo 4 > Roteiro em Elaboração.
++ Passo 4 > :white_check_mark:
 
-
+## ETAPAS DO PROJETO
 ### Passo 1: Criação de rankings
 
 Crie para 2 rankings de inovação com diferentes pesos:
@@ -34,6 +33,7 @@ Criar mapas cujas cores dos municípios estão associadas a um valor do índice 
 Criar um vídeo que será postado no YouTube no qual você e seu grupo deverão explicar:
 
 + O problema de inovação
+
 + O que é o ranking de inovação ISDEL e seu fatores.
 
 + Como construiu, de forma rápida e breve, código em Python para calcular um índice de inovação para cada município do estado de São Paulo, usando método ISDEL ou Promethee II.
